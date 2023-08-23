@@ -1,0 +1,55 @@
+# Product
+@baseUrl =http://localhost:3000/api
+@resourceName=product
+
+# @name  getAll
+GET {{baseUrl}}/{{resourceName}}
+
+
+### 
+# @name fillter
+
+GET {{baseUrl}}/{{resourceName}}?color=blue&price_lte=150&price_gte=100
+### 
+# @name fillterName
+
+GET {{baseUrl}}/{{resourceName}}?name_like=tasty
+
+
+### 
+# @name pagination
+
+GET {{baseUrl}}/{{resourceName}}?_page=2&_limit=5
+
+### 
+# @name sort
+
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=asc
+
+###
+ 
+# @name addNew
+POST  {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name":"Laptop"
+}
+
+###
+
+# @name update
+PATCH   {{baseUrl}}/{{resourceName}}/0b74047d-8bcf-44a8-8ace-40f740a2e595
+Content-Type: application/json
+
+  {
+
+    "price": 190
+    
+  }
+
+###
+
+# @name remove
+DELETE    {{baseUrl}}/{{resourceName}}/2
+

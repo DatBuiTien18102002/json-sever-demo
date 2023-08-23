@@ -1,0 +1,233 @@
+{
+  "categories": [
+    {
+      "id": "77d8f410-73ac-4f7d-bd28-8ddc1ef44d83",
+      "name": "Computers",
+      "createdAt": 1692775662458,
+      "updatedAt": 1692775662458
+    },
+    {
+      "id": "bf04dfe9-5999-4016-9570-a625158eb513",
+      "name": "Shoes",
+      "createdAt": 1692775662459,
+      "updatedAt": 1692775662459
+    },
+    {
+      "id": "ab10bc56-e806-4ba3-a8aa-287d8b8f163a",
+      "name": "Sports",
+      "createdAt": 1692775662459,
+      "updatedAt": 1692775662459
+    },
+    {
+      "id": "7708ea9d-66f7-4cfb-9665-67471cd8ed4d",
+      "name": "Shoes",
+      "createdAt": 1692775662459,
+      "updatedAt": 1692775662459
+    }
+  ],
+  "product": [
+    {
+      "categoryName": "Computers",
+      "id": "df128c55-0400-494b-9580-161059a49842",
+      "name": "Licensed Concrete Mouse",
+      "color": "cyan",
+      "price": 842,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1692775662459,
+      "updatedAt": 1692775662459
+    },
+    {
+      "categoryName": "Computers",
+      "id": "0b74047d-8bcf-44a8-8ace-40f740a2e595",
+      "name": "Fantastic Granite Shoes",
+      "color": "blue",
+      "price": 190,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1692775662460,
+      "updatedAt": 1692778049472
+    },
+    {
+      "categoryName": "Computers",
+      "id": "79a8b55c-a8a0-4e57-96d4-854a0be0a435",
+      "name": "Intelligent Rubber Chicken",
+      "color": "plum",
+      "price": 669,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1692775662460,
+      "updatedAt": 1692775662460
+    },
+    {
+      "categoryName": "Computers",
+      "id": "63e5e870-f274-4b99-992b-87d15662c8aa",
+      "name": "Gorgeous Rubber Gloves",
+      "color": "sky blue",
+      "price": 956,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1692775662460,
+      "updatedAt": 1692775662460
+    },
+    {
+      "categoryName": "Computers",
+      "id": "e1f851fb-5015-497b-8f9d-771351c4ce8a",
+      "name": "Refined Concrete Chicken",
+      "color": "salmon",
+      "price": 343,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1692775662460,
+      "updatedAt": 1692775662460
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "9191b1f2-8967-40d8-a36b-7d06810c88a2",
+      "name": "Generic Cotton Car",
+      "color": "lavender",
+      "price": 144,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1692775662460,
+      "updatedAt": 1692775662460
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "0caae927-2789-4bdb-a488-d94fd9a71416",
+      "name": "Licensed Steel Sausages",
+      "color": "turquoise",
+      "price": 22,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1692775662460,
+      "updatedAt": 1692775662460
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "0abfa29b-9444-461f-9252-31f7958ee85b",
+      "name": "Ergonomic Frozen Keyboard",
+      "color": "pink",
+      "price": 801,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1692775662460,
+      "updatedAt": 1692775662460
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "a08053d5-c899-4ce8-bd3a-7f6d32a98087",
+      "name": "Incredible Fresh Shirt",
+      "color": "turquoise",
+      "price": 224,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1692775662460,
+      "updatedAt": 1692775662460
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "060d73c1-b793-4743-bae4-fe7cb989e0c9",
+      "name": "Tasty Fresh Computer",
+      "color": "green",
+      "price": 847,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Sports",
+      "id": "c25da54f-c394-41b3-b63d-45a5054a6ad7",
+      "name": "Incredible Metal Gloves",
+      "color": "azure",
+      "price": 250,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Sports",
+      "id": "19e81c3b-a350-4bb3-84c2-eef907d2350b",
+      "name": "Tasty Concrete Pants",
+      "color": "salmon",
+      "price": 253,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Sports",
+      "id": "f7543802-ffe9-4d1f-9211-228bc49d5f0e",
+      "name": "Generic Metal Keyboard",
+      "color": "violet",
+      "price": 128,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Sports",
+      "id": "6e481cab-bd29-4ab6-899b-94938c750672",
+      "name": "Tasty Frozen Cheese",
+      "color": "yellow",
+      "price": 374,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Sports",
+      "id": "24c84ac9-0b54-414f-8308-9fcd118d74d5",
+      "name": "Handcrafted Rubber Chips",
+      "color": "silver",
+      "price": 177,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "48aa54ee-eb24-4c6c-b14d-925bc6bdf816",
+      "name": "Unbranded Metal Shirt",
+      "color": "tan",
+      "price": 802,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "025ccb7a-9d77-45ef-ae96-052dcd62027d",
+      "name": "Handcrafted Plastic Bacon",
+      "color": "gold",
+      "price": 509,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "313ef9d3-5cc4-4f02-87e0-41005cb2649a",
+      "name": "Intelligent Plastic Cheese",
+      "color": "blue",
+      "price": 125,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "d627374a-e54c-4e70-aae7-31c6554ba87e",
+      "name": "Awesome Fresh Chicken",
+      "color": "azure",
+      "price": 567,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    },
+    {
+      "categoryName": "Shoes",
+      "id": "2b4c1153-91a3-4009-a841-592fbbb516de",
+      "name": "Ergonomic Frozen Shoes",
+      "color": "azure",
+      "price": 654,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1692775662461,
+      "updatedAt": 1692775662461
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
