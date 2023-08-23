@@ -1,6 +1,7 @@
 // const faker = require("faker")
 import faker from 'faker';
-const fs = require("fs");
+import fs from 'fs';
+// const fs = require("fs");
 
 //Set locale to use VietNamese
 faker.locale = 'vi'
